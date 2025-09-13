@@ -91,6 +91,5 @@ Purpose: Help ride-sharing businesses optimize operations, reduce cancellations,
 
 ### ⚡ Strong Recommendations
 - ✅ The Success Prediction Model is ready to showcase as a working component of the project.  
-- ⚠️ The Revenue Prediction Model is not reliable and should NOT be used in production.  
- Instead, mention in README:  
+- ⚠️ The Revenue Prediction Model is not reliable and should NOT be used in production.    
   *"Attempted revenue prediction shows poor results (R² ~ 0.05). Future work needed: Advanced features, models (e.g., LightGBM, CatBoost), external data (weather, events).”*
